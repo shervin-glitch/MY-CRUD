@@ -1,9 +1,4 @@
-#This APP Is Created By Shervin.bdn And YOU CAN COPY IT and USE it in your Works But Fuck U ALL If U Did that XDDDD
-#Run It On Pychram Windows
-#This is The Windows Version Of App
-#So Dont Fuck My App
-#But
-#My Bros Can Copy IT XDDDD
+#This UI App Is Not Completed Yet
 
 from tkinter import Tk , Toplevel , Label , Button , Entry , StringVar , RAISED , GROOVE
 
